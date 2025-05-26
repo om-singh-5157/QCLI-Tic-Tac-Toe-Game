@@ -28,7 +28,3 @@ The code followed good design practices, handled edge cases (like clicking on an
 Using Amazon Q CLI, I realized just how efficiently developers can accelerate idea-to-execution time. With the right prompt, Q CLI doesn’t just write code — it collaborates. It understands structure, logic, user interaction, and clean syntax.
 
 As someone who’s been handcrafting Python games for years, this felt like working with a supercharged co-pilot.
-
-📷 Sneak Peek of the Game:
-Picture of your Tic-Tac-Toe game running here
-(Optional: Add a video or screenshot to make your post more engaging).
